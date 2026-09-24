@@ -30,9 +30,17 @@
 
 ## 3. Exons, Introns, and Transcripts
 
-To be completed.
+## 3. Exons, Introns, and Transcripts
 
----
+- **Selected transcript:** ENST00000233146.7
+- **Number of exons:** 16
+- **Multiple transcripts/isoforms visible:** Yes
+
+The selected MSH2 transcript, ENST00000233146.7, contains 16 exons. The UCSC tooltip identifies the transcript and shows "Exon 1 of 16." Multiple horizontal transcript models are also visible in the GENCODE and RefSeq tracks, indicating that MSH2 has multiple transcript/isoform models.
+
+An exon is a region of a gene that remains in the mature RNA after RNA splicing. An intron is a region between exons that is removed from the pre-mRNA during RNA splicing.
+
+In the MSH2 gene, the introns generally appear longer than the exons. The UCSC browser shows relatively small exon blocks separated by longer connecting regions representing introns.
 
 ## 4. UCSC Annotation Tracks
 
