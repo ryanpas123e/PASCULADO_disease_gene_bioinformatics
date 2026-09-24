@@ -66,9 +66,14 @@ Strong conservation across different species can suggest that a DNA region has b
 - 
 ## 6. Locating the Variant in UCSC
 
-To be completed.
-
----
+- **Variant:** NM_000251.3(MSH2):c.942+3A>T
+- **Genomic position (GRCh38):** chr2:47,414,421
+- **Location relative to gene:** Within the MSH2 gene
+- **Region:** Intron 5
+- **Splice region:** Splice-donor region
+- **Coding or non-coding:** Intronic/non-coding region
+- **Possible effect:** The variant may disrupt normal RNA splicing. ClinVar reports that it can cause exon 5 skipping, which may alter the MSH2 protein.
+- **Additional evidence needed:** RNA/splicing studies, protein-function studies, population data, family segregation studies, and additional clinical evidence would help establish the relationship between the variant and Lynch syndrome.
 
 ## 7. Interpretation
 
