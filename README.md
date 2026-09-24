@@ -44,9 +44,12 @@ In the MSH2 gene, the introns generally appear longer than the exons. The UCSC b
 
 ## 4. UCSC Annotation Tracks
 
-To be completed.
+- **Gene annotation track used:** GENCODE V50 and RefSeq Curated
+- **ClinVar-related variant marks visible:** Yes. ClinVar variant marks were visible within the MSH2 region.
+- **Were some regions more conserved than others?** Yes. The conservation track showed that some regions of the MSH2 region had stronger conservation signals than others.
+- **Where were conserved regions mainly located?** The stronger conservation signals were observed mainly around exon/gene regions, although conservation was also present in some non-coding regions.
 
----
+Strong conservation across different species can suggest that a DNA region has been maintained through evolution because changes in that region may affect an important biological function. Therefore, highly conserved regions may be important for gene function, regulation, or other cellular processes.
 
 ## 5. Selected ClinVar Variant
 
