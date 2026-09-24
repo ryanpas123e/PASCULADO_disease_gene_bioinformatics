@@ -20,10 +20,13 @@
 ---
 
 ## 2. UCSC Gene Location
-
-To be completed.
-
----
+- **Official gene symbol:** MSH2
+- **Full gene name:** mutS homolog 2
+- **Chromosome:** 2
+- **Genome assembly used:** GRCh38/hg38
+- **Genomic coordinates:** chr2:47,403,067–47,709,830
+- **DNA strand:** +
+- **Approximate gene size:** 306,764 bp (approximately 306.8 kb)
 
 ## 3. Exons, Introns, and Transcripts
 
