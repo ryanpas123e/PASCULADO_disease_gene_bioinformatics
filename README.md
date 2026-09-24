@@ -53,10 +53,17 @@ Strong conservation across different species can suggest that a DNA region has b
 
 ## 5. Selected ClinVar Variant
 
-To be completed.
-
----
-
+- **Gene:** MSH2
+- **Variant name/HGVS description:** NM_000251.3(MSH2):c.942+3A>T
+- **rsID:** rs193922376
+- **ClinVar Variation ID:** 36580
+- **VCV accession:** VCV000036580.96
+- **Chromosome and genomic position (GRCh38):** chr2:47,414,421
+- **Associated condition/disease:** Lynch syndrome
+- **Clinical significance:** Pathogenic
+- **Review status:** Reviewed by expert panel
+- **ClinVar record URL:** https://www.ncbi.nlm.nih.gov/clinvar/variation/36580/
+- 
 ## 6. Locating the Variant in UCSC
 
 To be completed.
