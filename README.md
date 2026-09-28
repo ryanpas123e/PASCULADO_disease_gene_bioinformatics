@@ -128,3 +128,14 @@ The most interesting feature I observed was that the MSH2 variant is located in 
 **Full Gene Name:** mutS homolog 2
 
 **Associated Disease:** Lynch syndrome
+### 10.2 Organ/Tissue Choice and Dataset Information
+
+**Dataset:** Colorectal Cancer
+
+**Organ/Tissue:** Colon and rectum
+
+**Reason for selection:** I selected the Colorectal Cancer dataset because it contains single-cell data from colon and rectal tissues and is directly relevant to investigating MSH2 in the context of colorectal cancer and Lynch syndrome.
+
+**Publication/Study:** Lee et al. 2020. *Lineage-dependent gene expression programs influence the immune landscape of colorectal cancer.*
+
+**Dataset URL:** https://cells.ucsc.edu/?ds=colorectal-cancer
