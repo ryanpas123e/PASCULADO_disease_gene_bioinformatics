@@ -117,3 +117,14 @@ The most interesting feature I observed was that the MSH2 variant is located in 
 
 5. National Center for Biotechnology Information (NCBI). ClinVar: NM_000251.3(MSH2):c.942+3A>T and Inherited MMR deficiency (Lynch syndrome).  
    https://www.ncbi.nlm.nih.gov/clinvar/RCV006743820.2/
+
+
+## 10. UCSC Cell Browser Activity
+
+### 10.1 Assigned Gene and Disease
+
+**Gene:** MSH2
+
+**Full Gene Name:** mutS homolog 2
+
+**Associated Disease:** Lynch syndrome
