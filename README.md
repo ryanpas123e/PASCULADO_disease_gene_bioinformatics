@@ -165,3 +165,20 @@ The most interesting feature I observed was that the MSH2 variant is located in 
 
 - **e. Which cluster(s) appear to contain little or no detectable expression?**  
   Most of the visible clusters show predominantly very low or undetected MSH2 expression, including the major epithelial, immune, and stromal cell populations.
+
+### 10.5 Cell Types Expressing MSH2
+
+- **a. Cell type/cluster with the strongest visible expression:**  
+  No single cell type or cluster shows clearly strong MSH2 expression. The higher-expression cells are sparse and scattered across the cell map.
+
+- **b. Another cell type/cluster with detectable expression:**  
+  A small number of cells with detectable MSH2 expression can be observed across different regions of the map, but a specific second cell type cannot be confidently identified from the overall expression pattern.
+
+- **c. Cell type/cluster with relatively low or undetected expression:**  
+  Most cell types and clusters show little or no detectable MSH2 expression. The expression legend shows that 94.4% of the cells have an expression value of 0.
+
+- **d. Is the expression pattern broad or cell-type restricted?**  
+  The expression pattern appears very low and sparse rather than strongly restricted to a particular cell type. Most cells across the different clusters have no detectable MSH2 expression.
+
+- **e. Possible biological explanation:**  
+  Based on the selected colorectal cancer dataset, MSH2 expression is detected in only a small fraction of cells. This may reflect low expression or limited detection of MSH2 in this particular single-cell dataset, so the observed pattern should not be interpreted as evidence that MSH2 is absent from the other cell types.
