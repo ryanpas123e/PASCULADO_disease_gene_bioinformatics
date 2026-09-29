@@ -182,13 +182,14 @@ The most interesting feature I observed was that the MSH2 variant is located in 
 
 - **e. Possible biological explanation:**  
   Based on the selected colorectal cancer dataset, MSH2 expression is detected in only a small fraction of cells. This may reflect low expression or limited detection of MSH2 in this particular single-cell dataset, so the observed pattern should not be interpreted as evidence that MSH2 is absent from the other cell types.
+
 ### 10.6 Expression Plot
 
 - **a. Which cells/cluster did you select?**  
-  I selected the CD8+ T cells and CD4+ T cells region, containing 11,039 cells.
+  The MSH2 gene expression was compared across cell subtypes using the Gene Expression Plots dot plot.
 
 - **b. Does your selected group show higher, lower, or similar expression compared with the comparison cells?**  
-  The selected cells show similar MSH2 expression compared with the other cells. Both groups have expression distributions concentrated near zero.
+  MSH2 expression is generally very low across the cell subtypes shown. The dot plot shows differences in average expression and in the proportion of cells with detectable MSH2 expression, but no cell type shows a strongly high level of MSH2 expression.
 
 - **c. What does the expression plot add that was not obvious from the UMAP/t-SNE map?**  
-  The violin plot shows the distribution of MSH2 expression values in the selected cells compared with the other cells. Which makes it more reasonable that MSH2 expression is concentrated near zero in both groups, confirming that detectable MSH2 expression is very low in this dataset.
+  The dot plot allows MSH2 expression to be compared directly among individual cell types. It shows both the average expression level and the proportion of cells with detectable expression, providing a clearer comparison than the spatial distribution of cells on the t-SNE map.
