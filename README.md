@@ -193,3 +193,16 @@ The most interesting feature I observed was that the MSH2 variant is located in 
 
 - **c. What does the expression plot add that was not obvious from the UMAP/t-SNE map?**  
   The dot plot allows MSH2 expression to be compared directly among individual cell types. It shows both the average expression level and the proportion of cells with detectable expression, providing a clearer comparison than the spatial distribution of cells on the t-SNE map.
+
+### 10.7 Marker Genes
+
+- **a. Cluster/cell type examined:** CD8+ T cells
+
+- **b. Marker gene 1:** CCL5
+
+- **c. Marker gene 2:** CD3D
+
+- **d. Marker gene 3:** NKG7
+
+- **e. Does MSH2 behave like a cell-type marker in this dataset?**  
+  MSH2 does not appear to behave like a cell-type-specific marker for the CD8+ T-cell cluster. Unlike the marker genes listed above, MSH2 shows very low expression across most cells in the selected colorectal cancer dataset and is not strongly concentrated in the CD8+ T-cell population.
