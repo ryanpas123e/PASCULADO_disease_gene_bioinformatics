@@ -260,3 +260,14 @@ Combining these types of information provides a more complete view of a disease-
 #### 5. What was the most interesting observation you made about your assigned gene?
 
 The most interesting observation was that MSH2 showed very low detectable expression in most cells of the colorectal cancer dataset, even though it is associated with Lynch syndrome. The comparison with CCL5 was also interesting because CCL5 showed a much more concentrated expression pattern in the T-cell populations, while MSH2 did not behave as a strong cell-type marker. This showed me that a disease-associated gene does not necessarily have the same expression pattern as a cell-type marker gene.
+
+### 10.11 References
+
+1. UCSC Cell Browser. Colorectal Cancer dataset — CCL5 expression.  
+   https://cells.ucsc.edu/?ds=colorectal-cancer&gene=CCL5
+
+2. UCSC Cell Browser. Colorectal Cancer dataset — MSH2 expression.  
+   https://cells.ucsc.edu/?ds=colorectal-cancer&gene=MSH2
+
+3. UCSC Cell Browser. Colorectal Cancer dataset — Cell Type annotation.  
+   https://cells.ucsc.edu/?ds=colorectal-cancer&meta=Cell_type
