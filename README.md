@@ -139,3 +139,5 @@ The most interesting feature I observed was that the MSH2 variant is located in 
 **Publication/Study:** Lee et al. 2020. *Lineage-dependent gene expression programs influence the immune landscape of colorectal cancer.*
 
 **Dataset URL:** https://cells.ucsc.edu/?ds=colorectal-cancer
+### Screenshot 1 — Selected Dataset
+I selected the Colorectal Cancer dataset because it contains single-cell data from the colon and rectum, providing a relevant tissue context for investigating MSH2 and Lynch syndrome. The dataset specifically examines the cellular landscape of colorectal cancer and includes information about mismatch repair-deficient tumors.
