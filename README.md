@@ -206,3 +206,18 @@ The most interesting feature I observed was that the MSH2 variant is located in 
 
 - **e. Does MSH2 behave like a cell-type marker in this dataset?**  
   MSH2 does not appear to behave like a cell-type-specific marker for the CD8+ T-cell cluster. Unlike the marker genes listed above, MSH2 shows very low expression across most cells in the selected colorectal cancer dataset and is not strongly concentrated in the CD8+ T-cell population.
+
+### 10.8 Disease Gene vs. Marker Gene
+
+- **a. Assigned disease gene:** MSH2
+
+- **b. Marker gene:** CCL5
+
+- **c. Which gene shows a more cell-type-restricted expression pattern?**  
+  CCL5 shows a more cell-type-restricted expression pattern. Its stronger expression is concentrated mainly around the CD8+ T-cell cluster and nearby T-cell populations.
+
+- **d. Which gene appears more broadly expressed?**  
+  MSH2 shows a broader but very low and sparse detectable expression pattern. Unlike CCL5, its detectable expression is not strongly concentrated in one particular cell type in this dataset.
+
+- **e. What does this comparison teach you about the difference between a disease-associated gene and a cell-type marker gene?**  
+  This comparison shows that a disease-associated gene does not necessarily have to be a cell-type marker. MSH2 is associated with Lynch syndrome, but its expression does not specifically identify the CD8+ T-cell population, whereas CCL5 shows a more concentrated pattern that helps characterize the CD8+ T-cell population.
