@@ -221,3 +221,20 @@ The most interesting feature I observed was that the MSH2 variant is located in 
 
 - **e. What does this comparison teach you about the difference between a disease-associated gene and a cell-type marker gene?**  
   This comparison shows that a disease-associated gene does not necessarily have to be a cell-type marker. MSH2 is associated with Lynch syndrome, but its expression does not specifically identify the CD8+ T-cell population, whereas CCL5 shows a more concentrated pattern that helps characterize the CD8+ T-cell population.
+
+### 10.9 Connection to Genome Browser and ClinVar
+
+- **1. Chromosome location:**  
+  MSH2 is located on chromosome 2 (GRCh38/hg38), at approximately chr2:47,403,067–47,709,830.
+
+- **2. Disease-associated variant examined:**  
+  The variant examined in the previous activity was NM_000251.3(MSH2):c.942+3A>T (rs193922376), an intronic variant located in the splice-donor region of intron 5. The selected ClinVar record classified this variant as Pathogenic and associated it with Lynch syndrome.
+
+- **3. Cell types expressing the gene:**  
+  In the Colorectal Cancer Cell Browser dataset, MSH2 shows very low detectable expression across multiple cell types rather than being strongly restricted to one particular cell type. Most cells show no detectable MSH2 expression, while a smaller proportion of cells show low expression across different cell populations.
+
+- **4. Does the observed cell expression make biological sense?**  
+  The observed expression is biologically reasonable because MSH2 encodes a protein involved in DNA mismatch repair, a process required for maintaining genome stability. MSH2 is therefore not expected to function as a marker specific to one particular cell type. The colorectal cancer dataset is also relevant because defects in mismatch repair genes such as MSH2 are associated with Lynch syndrome and colorectal cancer. However, the low expression observed in this particular single-cell dataset should be interpreted only within the context of the selected dataset.
+
+- **5. Can this single Cell Browser dataset prove that the gene causes the disease?**  
+  No. The Cell Browser dataset only shows the distribution of MSH2 expression among cells in the selected colorectal cancer dataset. It does not establish that MSH2 expression or the observed expression pattern causes Lynch syndrome. Establishing disease causation requires additional evidence, such as genetic variant data, functional studies, clinical evidence, and other molecular or experimental evidence.
