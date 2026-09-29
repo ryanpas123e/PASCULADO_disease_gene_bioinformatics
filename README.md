@@ -238,3 +238,25 @@ The most interesting feature I observed was that the MSH2 variant is located in 
 
 - **5. Can this single Cell Browser dataset prove that the gene causes the disease?**  
   No. The Cell Browser dataset only shows the distribution of MSH2 expression among cells in the selected colorectal cancer dataset. It does not establish that MSH2 expression or the observed expression pattern causes Lynch syndrome. Establishing disease causation requires additional evidence, such as genetic variant data, functional studies, clinical evidence, and other molecular or experimental evidence.
+
+### 10.10 Reflection
+
+#### 1. What did the UCSC Cell Browser show you that the UCSC Genome Browser could not?
+
+The UCSC Cell Browser showed how MSH2 expression is distributed among individual cells and different cell types in a colorectal cancer dataset. In contrast, the UCSC Genome Browser mainly showed the genomic location, gene structure, and position of the disease-associated variant. The Cell Browser therefore provided a cell-specific view of MSH2 expression.
+
+#### 2. Why can the same gene have different expression levels among different cell types?
+
+Different cell types have different functions and therefore require different sets and amounts of proteins. As a result, the genes needed by one cell type may be expressed at higher levels than in another cell type. This produces different gene-expression patterns among cell populations.
+
+#### 3. Why should you be careful when interpreting a gene that shows zero or very low expression in single-cell data?
+
+Zero or very low expression does not necessarily mean that the gene has no biological function or is completely absent from the cells. Single-cell expression measurements can contain undetected or zero values, and expression can also depend on the tissue, samples, experimental method, and data processing. Therefore, the result should be interpreted within the context of the selected dataset.
+
+#### 4. Why is it useful to combine information about genomic location, genetic variants, and cell-specific gene expression?
+
+Combining these types of information provides a more complete view of a disease-associated gene. Genomic information shows where the gene and variant are located, while cell-specific expression shows where the gene is detected in a biological system. Together, these observations can help connect genetic variation with cellular and tissue-level context.
+
+#### 5. What was the most interesting observation you made about your assigned gene?
+
+The most interesting observation was that MSH2 showed very low detectable expression in most cells of the colorectal cancer dataset, even though it is associated with Lynch syndrome. The comparison with CCL5 was also interesting because CCL5 showed a much more concentrated expression pattern in the T-cell populations, while MSH2 did not behave as a strong cell-type marker. This showed me that a disease-associated gene does not necessarily have the same expression pattern as a cell-type marker gene.
