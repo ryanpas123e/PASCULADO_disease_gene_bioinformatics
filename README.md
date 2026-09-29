@@ -139,3 +139,15 @@ The most interesting feature I observed was that the MSH2 variant is located in 
 **Publication/Study:** Lee et al. 2020. *Lineage-dependent gene expression programs influence the immune landscape of colorectal cancer.*
 
 **Dataset URL:** https://cells.ucsc.edu/?ds=colorectal-cancer
+### 10.3 Understanding the Cell Map
+
+- **a. Type of visualization:** t-SNE (t-distributed Stochastic Neighbor Embedding). It is a non-linear dimensionality reduction technique used to project high-dimensional single-cell RNA sequencing data into a 2D space.
+
+- **b. What does one dot represent?** A single cell, specifically the individual gene expression profile of one single cell.
+
+- **c. What do the clusters represent in this particular dataset?** Distinct cell types, cell states, or subpopulations within the human colorectal cancer tissue. Cells that share similar overall transcriptomic/gene expression profiles are grouped closely together into clusters.
+
+- **d. List at least three cell-type or cluster labels visible in the dataset.**
+  1. Goblet cells
+  2. CD8+ T cells
+  3. CD4+ T cells
