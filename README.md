@@ -151,3 +151,17 @@ The most interesting feature I observed was that the MSH2 variant is located in 
   1. Goblet cells
   2. CD8+ T cells
   3. CD4+ T cells
+### 10.4 Assigned Gene Expression
+
+- **a. Assigned gene symbol:** MSH2
+
+- **b. Dataset used:** Colorectal Cancer
+
+- **c. Is expression widespread, restricted, or low/undetected?**  
+  MSH2 expression is very low or undetected in most cells. The expression legend shows that 94.4% of the cells have an expression value of 0, while only small percentages of cells fall within the higher expression ranges. Therefore, MSH2 expression appears to be low/weakly detected and restricted to a small number of cells rather than widespread.
+
+- **d. Which cluster(s) appear to contain cells with stronger expression?**  
+  Some cells with higher MSH2 expression can be seen as scattered colored cells across several regions of the map. However, there is no single cluster that clearly shows strong MSH2 expression compared with the others.
+
+- **e. Which cluster(s) appear to contain little or no detectable expression?**  
+  Most of the visible clusters show predominantly very low or undetected MSH2 expression, including the major epithelial, immune, and stromal cell populations.
